@@ -11,12 +11,14 @@
   "dependencies": {
     "@tsparticles/confetti": "^3.5.0",
     "classnames": "^2.5.1",
+    "firebase": "^10.14.1",
     "next": "14.2.15",
     "react": "^18",
     "react-dom": "^18",
     "react-lottie": "^1.2.4",
     "react-lottie-player": "^2.1.0",
-    "react-toastify": "^10.0.6"
+    "react-toastify": "^10.0.6",
+    "zustand": "^5.0.0"
   },
   "devDependencies": {
     "@types/node": "^20",
