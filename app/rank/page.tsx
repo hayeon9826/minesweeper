@@ -19,7 +19,7 @@ interface Ranking {
   username: string;
   time: number;
   level: string;
-  createdAt: any;
+  createdAt: string;
 }
 
 const RankPage = () => {
